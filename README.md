@@ -106,3 +106,16 @@ jobs:
 
 Ensure you have set up the necessary secrets (`DOCKER_USERNAME` and `DOCKER_PASSWORD`) in your GitHub repository settings.
 
+## Results
+Webpage before changes
+![Before Changes](https://github.com/om101deore/codester/blob/main/share/static_website.png)
+
+Webpage after changing heading and pushing code to github
+![After Changes](https://github.com/om101deore/codester/blob/main/share/changes_reflected.png)
+
+Actions in use
+![Actions in use](https://github.com/om101deore/codester/blob/main/share/actions.png)
+
+Actions Successful
+![Actions Successful](https://github.com/om101deore/codester/blob/main/share/actions_successful.png)
+
